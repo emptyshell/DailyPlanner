@@ -1,0 +1,18 @@
+[
+  {
+    "outputType": {
+      "type": "MERGED_MANIFESTS"
+    },
+    "apkInfo": {
+      "type": "MAIN",
+      "splits": [],
+      "versionCode": 1
+    },
+    "path": "AndroidManifest.xml",
+    "properties": {
+      "packageId": "com.example.dailyplanner.dailyplanner",
+      "split": "",
+      "minSdkVersion": "18"
+    }
+  }
+]

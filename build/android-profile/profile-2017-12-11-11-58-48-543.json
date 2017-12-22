@@ -1,0 +1,1888 @@
+[
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986323354000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 25545704\nnon_heap_memory_usage: 53149128\nloaded_class_count: 7558\nthread_count: 21\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 5\n  gc_time: 52\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 2\n  gc_time: 122\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986325047000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 274645456\nnon_heap_memory_usage: 79275792\nloaded_class_count: 10638\nthread_count: 27\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986325050000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 275526256\nnon_heap_memory_usage: 79299712\nloaded_class_count: 10643\nthread_count: 27\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986325398000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 77801296\nnon_heap_memory_usage: 77627096\nloaded_class_count: 10822\nthread_count: 27\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 1\n  gc_time: 16\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986325423000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 77802048\nnon_heap_memory_usage: 77739472\nloaded_class_count: 10828\nthread_count: 27\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986325435000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 77802464\nnon_heap_memory_usage: 77812160\nloaded_class_count: 10834\nthread_count: 27\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986325438000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 77802880\nnon_heap_memory_usage: 77821368\nloaded_class_count: 10835\nthread_count: 27\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986325440000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 78284072\nnon_heap_memory_usage: 77853336\nloaded_class_count: 10836\nthread_count: 27\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986325443000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 78284072\nnon_heap_memory_usage: 77872968\nloaded_class_count: 10837\nthread_count: 27\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986325453000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 78284328\nnon_heap_memory_usage: 77873384\nloaded_class_count: 10837\nthread_count: 27\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986325454000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 78284328\nnon_heap_memory_usage: 77873448\nloaded_class_count: 10837\nthread_count: 27\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986325531000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 86514808\nnon_heap_memory_usage: 77204456\nloaded_class_count: 10839\nthread_count: 27\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986325535000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 86514808\nnon_heap_memory_usage: 77242744\nloaded_class_count: 10844\nthread_count: 27\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986325554000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 88831232\nnon_heap_memory_usage: 77360984\nloaded_class_count: 10848\nthread_count: 27\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986325558000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 88831232\nnon_heap_memory_usage: 77371416\nloaded_class_count: 10848\nthread_count: 27\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986325585000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 90922136\nnon_heap_memory_usage: 77451144\nloaded_class_count: 10848\nthread_count: 27\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986325585001,
+    "args": {
+      "JVM stats": "heap_memory_usage: 90922136\nnon_heap_memory_usage: 77455360\nloaded_class_count: 10848\nthread_count: 27\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986325605000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 91403328\nnon_heap_memory_usage: 77528656\nloaded_class_count: 10849\nthread_count: 27\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986326493000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 61134944\nnon_heap_memory_usage: 88280896\nloaded_class_count: 11788\nthread_count: 28\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 1\n  gc_time: 21\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 1\n  gc_time: 150\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986326499000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 68562512\nnon_heap_memory_usage: 88297512\nloaded_class_count: 11789\nthread_count: 28\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986326502000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 68562512\nnon_heap_memory_usage: 88328592\nloaded_class_count: 11790\nthread_count: 28\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986326503000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 68562512\nnon_heap_memory_usage: 88338440\nloaded_class_count: 11790\nthread_count: 28\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986326517000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 75225368\nnon_heap_memory_usage: 88365688\nloaded_class_count: 11790\nthread_count: 28\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986326538000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 75972712\nnon_heap_memory_usage: 88497704\nloaded_class_count: 11809\nthread_count: 28\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986326554000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 76589680\nnon_heap_memory_usage: 88595608\nloaded_class_count: 11819\nthread_count: 28\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986326560000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 77206584\nnon_heap_memory_usage: 88633544\nloaded_class_count: 11822\nthread_count: 28\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986326674000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 84729016\nnon_heap_memory_usage: 89652256\nloaded_class_count: 11963\nthread_count: 28\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986326699000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 86448128\nnon_heap_memory_usage: 89854024\nloaded_class_count: 11967\nthread_count: 28\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986326700000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 86448128\nnon_heap_memory_usage: 89875448\nloaded_class_count: 11968\nthread_count: 28\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986326704000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 86448128\nnon_heap_memory_usage: 89918512\nloaded_class_count: 11969\nthread_count: 28\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986326729000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 87065056\nnon_heap_memory_usage: 90066960\nloaded_class_count: 11970\nthread_count: 28\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986326730000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 87065056\nnon_heap_memory_usage: 90080344\nloaded_class_count: 11970\nthread_count: 28\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986326752000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 87681960\nnon_heap_memory_usage: 90199232\nloaded_class_count: 11970\nthread_count: 28\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986326757000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 88298864\nnon_heap_memory_usage: 90216960\nloaded_class_count: 11970\nthread_count: 28\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986326889000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 97020840\nnon_heap_memory_usage: 91614888\nloaded_class_count: 12048\nthread_count: 31\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986326896000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 97020840\nnon_heap_memory_usage: 91669176\nloaded_class_count: 12056\nthread_count: 31\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986326896001,
+    "args": {
+      "JVM stats": "heap_memory_usage: 97020840\nnon_heap_memory_usage: 91673664\nloaded_class_count: 12056\nthread_count: 31\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986326897000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 97020840\nnon_heap_memory_usage: 91675736\nloaded_class_count: 12057\nthread_count: 31\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986326908000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 97020840\nnon_heap_memory_usage: 91709768\nloaded_class_count: 12057\nthread_count: 31\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986326910000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 97757840\nnon_heap_memory_usage: 91712088\nloaded_class_count: 12057\nthread_count: 31\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986326942000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 101773776\nnon_heap_memory_usage: 91892240\nloaded_class_count: 12062\nthread_count: 31\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986327524000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 162941880\nnon_heap_memory_usage: 98130216\nloaded_class_count: 12479\nthread_count: 32\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986327550000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 164796832\nnon_heap_memory_usage: 98220728\nloaded_class_count: 12479\nthread_count: 32\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986327718000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 187770240\nnon_heap_memory_usage: 99145328\nloaded_class_count: 12622\nthread_count: 32\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986327727000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 188387288\nnon_heap_memory_usage: 98621592\nloaded_class_count: 12649\nthread_count: 32\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986327735000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 189004440\nnon_heap_memory_usage: 98671232\nloaded_class_count: 12651\nthread_count: 32\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986328374000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 218705128\nnon_heap_memory_usage: 101307720\nloaded_class_count: 13065\nthread_count: 37\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986328385000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 219186320\nnon_heap_memory_usage: 101384168\nloaded_class_count: 13066\nthread_count: 37\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986328401000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 220660544\nnon_heap_memory_usage: 101644952\nloaded_class_count: 13094\nthread_count: 37\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986328402000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 220660544\nnon_heap_memory_usage: 101652616\nloaded_class_count: 13094\nthread_count: 37\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986328402001,
+    "args": {
+      "JVM stats": "heap_memory_usage: 220660544\nnon_heap_memory_usage: 101657656\nloaded_class_count: 13095\nthread_count: 37\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 0,
+    "ph": "i",
+    "name": "Memory sample",
+    "ts": 1512986328546000,
+    "args": {
+      "JVM stats": "heap_memory_usage: 234041856\nnon_heap_memory_usage: 103137296\nloaded_class_count: 13402\nthread_count: 30\ngarbage_collection_stats {\n  name: \"PS Scavenge\"\n  gc_collections: 0\n  gc_time: 0\n}\ngarbage_collection_stats {\n  name: \"PS MarkSweep\"\n  gc_collections: 0\n  gc_time: 0\n}\n"
+    }
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 2,
+    "name": "base plugin project configure",
+    "args": {
+      "span_id": "2",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n"
+    },
+    "ph": "X",
+    "ts": 1512986323385000,
+    "dur": 273000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 3,
+    "name": "base plugin project base extension creation",
+    "args": {
+      "span_id": "3",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n"
+    },
+    "ph": "X",
+    "ts": 1512986323658000,
+    "dur": 215000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 5,
+    "name": "task manager create tasks",
+    "args": {
+      "span_id": "5",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n"
+    },
+    "ph": "X",
+    "ts": 1512986323873000,
+    "dur": 38000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 4,
+    "name": "base plugin project tasks creation",
+    "args": {
+      "span_id": "4",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n"
+    },
+    "ph": "X",
+    "ts": 1512986323873000,
+    "dur": 39000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 8,
+    "name": "variant manager create variants",
+    "args": {
+      "span_id": "8",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n"
+    },
+    "ph": "X",
+    "ts": 1512986324487000,
+    "dur": 70000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 9,
+    "name": "variant manager create tests tasks",
+    "args": {
+      "span_id": "9",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n"
+    },
+    "ph": "X",
+    "ts": 1512986324557000,
+    "dur": 13000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 11,
+    "name": "app task manager create merge manifest task",
+    "args": {
+      "span_id": "11",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n"
+    },
+    "ph": "X",
+    "ts": 1512986324596000,
+    "dur": 14000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 12,
+    "name": "app task manager create generate res values task",
+    "args": {
+      "span_id": "12",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n"
+    },
+    "ph": "X",
+    "ts": 1512986324610000,
+    "dur": 3000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 13,
+    "name": "app task manager create create renderscript task",
+    "args": {
+      "span_id": "13",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n"
+    },
+    "ph": "X",
+    "ts": 1512986324614000,
+    "dur": 5000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 14,
+    "name": "app task manager create merge resources task",
+    "args": {
+      "span_id": "14",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n"
+    },
+    "ph": "X",
+    "ts": 1512986324620000,
+    "dur": 19000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 15,
+    "name": "app task manager create merge assets task",
+    "args": {
+      "span_id": "15",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n"
+    },
+    "ph": "X",
+    "ts": 1512986324639000,
+    "dur": 6000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 16,
+    "name": "app task manager create build config task",
+    "args": {
+      "span_id": "16",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n"
+    },
+    "ph": "X",
+    "ts": 1512986324645000,
+    "dur": 5000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 17,
+    "name": "app task manager create process res task",
+    "args": {
+      "span_id": "17",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n"
+    },
+    "ph": "X",
+    "ts": 1512986324650000,
+    "dur": 37000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 18,
+    "name": "app task manager create aidl task",
+    "args": {
+      "span_id": "18",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n"
+    },
+    "ph": "X",
+    "ts": 1512986324687000,
+    "dur": 5000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 19,
+    "name": "app task manager create shader task",
+    "args": {
+      "span_id": "19",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n"
+    },
+    "ph": "X",
+    "ts": 1512986324692000,
+    "dur": 6000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 20,
+    "name": "app task manager create ndk task",
+    "args": {
+      "span_id": "20",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n"
+    },
+    "ph": "X",
+    "ts": 1512986324699000,
+    "dur": 6000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 21,
+    "name": "app task manager create external native build task",
+    "args": {
+      "span_id": "21",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n"
+    },
+    "ph": "X",
+    "ts": 1512986324705000,
+    "dur": 1000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 22,
+    "name": "app task manager create merge jnilibs folders task",
+    "args": {
+      "span_id": "22",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n"
+    },
+    "ph": "X",
+    "ts": 1512986324706000,
+    "dur": 17000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 23,
+    "name": "app task manager create compile task",
+    "args": {
+      "span_id": "23",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n"
+    },
+    "ph": "X",
+    "ts": 1512986324723000,
+    "dur": 68000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 24,
+    "name": "app task manager create packaging task",
+    "args": {
+      "span_id": "24",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n"
+    },
+    "ph": "X",
+    "ts": 1512986324792000,
+    "dur": 30000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 25,
+    "name": "app task manager create lint task",
+    "args": {
+      "span_id": "25",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n"
+    },
+    "ph": "X",
+    "ts": 1512986324822000,
+    "dur": 3000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 10,
+    "name": "variant manager create tasks for variant",
+    "args": {
+      "span_id": "10",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n"
+    },
+    "ph": "X",
+    "ts": 1512986324570000,
+    "dur": 255000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 26,
+    "name": "variant manager create tasks for variant",
+    "args": {
+      "span_id": "26",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n"
+    },
+    "ph": "X",
+    "ts": 1512986324825000,
+    "dur": 41000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 27,
+    "name": "variant manager create tasks for variant",
+    "args": {
+      "span_id": "27",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n"
+    },
+    "ph": "X",
+    "ts": 1512986324866000,
+    "dur": 31000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 7,
+    "name": "variant manager create android tasks",
+    "args": {
+      "span_id": "7",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n"
+    },
+    "ph": "X",
+    "ts": 1512986324486000,
+    "dur": 433000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 28,
+    "name": "variant manager external native config values",
+    "args": {
+      "span_id": "28",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n"
+    },
+    "ph": "X",
+    "ts": 1512986324921000,
+    "dur": 100
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 6,
+    "name": "base plugin create android tasks",
+    "args": {
+      "span_id": "6",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n"
+    },
+    "ph": "X",
+    "ts": 1512986323961000,
+    "dur": 960000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 29,
+    "name": "task: build info loader",
+    "args": {
+      "span_id": "29",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 7\ndid_work: true\nskipped: false\nup_to_date: false\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986325028000,
+    "dur": 14000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 30,
+    "name": "task: unknown task type",
+    "args": {
+      "span_id": "30",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "task": "type: 0\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986325050000,
+    "dur": 100
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 31,
+    "name": "task: app pre build",
+    "args": {
+      "span_id": "31",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 92\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986325052000,
+    "dur": 346000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 32,
+    "name": "task: aidl compile",
+    "args": {
+      "span_id": "32",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 1\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986325402000,
+    "dur": 21000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 33,
+    "name": "task: renderscript compile",
+    "args": {
+      "span_id": "33",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 54\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986325424000,
+    "dur": 11000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 34,
+    "name": "task: check manifest",
+    "args": {
+      "span_id": "34",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 8\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986325436000,
+    "dur": 1000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 35,
+    "name": "task: generate build config",
+    "args": {
+      "span_id": "35",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 24\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986325438000,
+    "dur": 2000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 36,
+    "name": "task: prepare lint jar",
+    "args": {
+      "span_id": "36",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "task": "type: 119\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986325441000,
+    "dur": 2000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 37,
+    "name": "task: generate res values",
+    "args": {
+      "span_id": "37",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 26\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986325452000,
+    "dur": 1000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 38,
+    "name": "task: unknown task type",
+    "args": {
+      "span_id": "38",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "task": "type: 0\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986325454000,
+    "dur": 100
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 39,
+    "name": "task: merge resources",
+    "args": {
+      "span_id": "39",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 40\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986325455000,
+    "dur": 76000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 40,
+    "name": "task: compatible screens manifest",
+    "args": {
+      "span_id": "40",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 9\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986325532000,
+    "dur": 3000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 41,
+    "name": "task: merge manifests",
+    "args": {
+      "span_id": "41",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 39\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986325536000,
+    "dur": 18000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 42,
+    "name": "task: splits discovery",
+    "args": {
+      "span_id": "42",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 87\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986325556000,
+    "dur": 1000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 43,
+    "name": "task: process android resources",
+    "args": {
+      "span_id": "43",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 51\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986325558000,
+    "dur": 26000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 44,
+    "name": "task: unknown task type",
+    "args": {
+      "span_id": "44",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "task": "type: 0\ndid_work: false\nskipped: false\nup_to_date: false\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986325585000,
+    "dur": 100
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 45,
+    "name": "task: java pre compile",
+    "args": {
+      "span_id": "45",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 76\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986325586000,
+    "dur": 18000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 46,
+    "name": "task: android java compile",
+    "args": {
+      "span_id": "46",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "task": "type: 3\ndid_work: true\nskipped: false\nup_to_date: false\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986325607000,
+    "dur": 886000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 47,
+    "name": "task: merge source set folders",
+    "args": {
+      "span_id": "47",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 41\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986326494000,
+    "dur": 5000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 48,
+    "name": "task: shader compile",
+    "args": {
+      "span_id": "48",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 55\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986326500000,
+    "dur": 2000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 49,
+    "name": "task: unknown task type",
+    "args": {
+      "span_id": "49",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "task": "type: 0\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986326502000,
+    "dur": 100
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 50,
+    "name": "task: merge source set folders",
+    "args": {
+      "span_id": "50",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 41\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986326503000,
+    "dur": 14000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 51,
+    "name": "task: package application",
+    "args": {
+      "span_id": "51",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 45\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986326518000,
+    "dur": 20000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 52,
+    "name": "task: check manifest in instant run mode",
+    "args": {
+      "span_id": "52",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 72\ndid_work: true\nskipped: false\nup_to_date: false\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986326538000,
+    "dur": 16000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 53,
+    "name": "task: transform",
+    "args": {
+      "span_id": "53",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 65\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986326557000,
+    "dur": 3000
+  },
+  {
+    "pid": 1,
+    "tid": 2,
+    "id": 55,
+    "name": "transform prep: instant run verifier",
+    "args": {
+      "span_id": "55",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "transform": "type: 20\nis_incremental: true\n"
+    },
+    "ph": "X",
+    "ts": 1512986326620000,
+    "dur": 11000
+  },
+  {
+    "pid": 1,
+    "tid": 2,
+    "id": 57,
+    "name": "task file verification",
+    "args": {
+      "span_id": "57",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n"
+    },
+    "ph": "X",
+    "ts": 1512986326633000,
+    "dur": 33000
+  },
+  {
+    "pid": 1,
+    "tid": 2,
+    "id": 58,
+    "name": "task file verification",
+    "args": {
+      "span_id": "58",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n"
+    },
+    "ph": "X",
+    "ts": 1512986326667000,
+    "dur": 3000
+  },
+  {
+    "pid": 1,
+    "tid": 2,
+    "id": 56,
+    "name": "transform: instant run verifier",
+    "args": {
+      "span_id": "56",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "transform": "type: 20\nis_incremental: true\n"
+    },
+    "ph": "X",
+    "ts": 1512986326632000,
+    "dur": 38000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 54,
+    "name": "task: transform",
+    "args": {
+      "span_id": "54",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 65\ndid_work: true\nskipped: false\nup_to_date: false\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986326561000,
+    "dur": 113000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 59,
+    "name": "task: transform",
+    "args": {
+      "span_id": "59",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 65\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986326675000,
+    "dur": 24000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 60,
+    "name": "task: ndk compile",
+    "args": {
+      "span_id": "60",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 43\ndid_work: false\nskipped: true\nup_to_date: false\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986326699000,
+    "dur": 1000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 61,
+    "name": "task: merge source set folders",
+    "args": {
+      "span_id": "61",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 41\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986326702000,
+    "dur": 2000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 62,
+    "name": "task: transform",
+    "args": {
+      "span_id": "62",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 65\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986326705000,
+    "dur": 24000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 63,
+    "name": "task: unknown task type",
+    "args": {
+      "span_id": "63",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "task": "type: 0\ndid_work: false\nskipped: true\nup_to_date: false\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986326730000,
+    "dur": 100
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 64,
+    "name": "task: transform",
+    "args": {
+      "span_id": "64",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 65\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986326731000,
+    "dur": 20000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 65,
+    "name": "task: transform",
+    "args": {
+      "span_id": "65",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 65\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986326752000,
+    "dur": 5000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 67,
+    "name": "transform prep: instant run",
+    "args": {
+      "span_id": "67",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "transform": "type: 5\nis_incremental: true\n"
+    },
+    "ph": "X",
+    "ts": 1512986326788000,
+    "dur": 16000
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 68,
+    "name": "transform: instant run",
+    "args": {
+      "span_id": "68",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "transform": "type: 5\nis_incremental: true\n"
+    },
+    "ph": "X",
+    "ts": 1512986326804000,
+    "dur": 77000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 66,
+    "name": "task: transform",
+    "args": {
+      "span_id": "66",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 65\ndid_work: true\nskipped: false\nup_to_date: false\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986326758000,
+    "dur": 130000
+  },
+  {
+    "pid": 1,
+    "tid": 3,
+    "id": 70,
+    "name": "transform prep: instant run dex",
+    "args": {
+      "span_id": "70",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "transform": "type: 3\nis_incremental: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986326894000,
+    "dur": 100
+  },
+  {
+    "pid": 1,
+    "tid": 3,
+    "id": 71,
+    "name": "transform: instant run dex",
+    "args": {
+      "span_id": "71",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "transform": "type: 3\nis_incremental: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986326894000,
+    "dur": 100
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 69,
+    "name": "task: transform",
+    "args": {
+      "span_id": "69",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 65\ndid_work: true\nskipped: false\nup_to_date: false\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986326890000,
+    "dur": 5000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 72,
+    "name": "task: unknown task type",
+    "args": {
+      "span_id": "72",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "task": "type: 0\ndid_work: false\nskipped: false\nup_to_date: false\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986326896000,
+    "dur": 100
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 73,
+    "name": "task: pre cold swap",
+    "args": {
+      "span_id": "73",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 48\ndid_work: true\nskipped: false\nup_to_date: false\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986326896000,
+    "dur": 1000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 74,
+    "name": "task: fast deploy runtime extractor",
+    "args": {
+      "span_id": "74",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 21\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986326897000,
+    "dur": 11000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 75,
+    "name": "task: generate instant run app info",
+    "args": {
+      "span_id": "75",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 25\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986326909000,
+    "dur": 1000
+  },
+  {
+    "pid": 1,
+    "tid": 3,
+    "id": 77,
+    "name": "transform prep: instant run slicer",
+    "args": {
+      "span_id": "77",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "transform": "type: 4\nis_incremental: true\n"
+    },
+    "ph": "X",
+    "ts": 1512986326934000,
+    "dur": 1000
+  },
+  {
+    "pid": 1,
+    "tid": 3,
+    "id": 78,
+    "name": "transform: instant run slicer",
+    "args": {
+      "span_id": "78",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "transform": "type: 4\nis_incremental: true\n"
+    },
+    "ph": "X",
+    "ts": 1512986326935000,
+    "dur": 3000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 76,
+    "name": "task: transform",
+    "args": {
+      "span_id": "76",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 65\ndid_work: true\nskipped: false\nup_to_date: false\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986326911000,
+    "dur": 31000
+  },
+  {
+    "pid": 1,
+    "tid": 3,
+    "id": 80,
+    "name": "transform prep: dex archive builder",
+    "args": {
+      "span_id": "80",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "transform": "type: 29\nis_incremental: true\n"
+    },
+    "ph": "X",
+    "ts": 1512986326974000,
+    "dur": 3000
+  },
+  {
+    "pid": 1,
+    "tid": 3,
+    "id": 81,
+    "name": "transform: dex archive builder",
+    "args": {
+      "span_id": "81",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "transform": "type: 29\nis_incremental: true\n"
+    },
+    "ph": "X",
+    "ts": 1512986326980000,
+    "dur": 535000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 79,
+    "name": "task: transform",
+    "args": {
+      "span_id": "79",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 65\ndid_work: true\nskipped: false\nup_to_date: false\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986326943000,
+    "dur": 581000
+  },
+  {
+    "pid": 1,
+    "tid": 4,
+    "id": 83,
+    "name": "transform prep: external libs merger",
+    "args": {
+      "span_id": "83",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "transform": "type: 34\nis_incremental: true\n"
+    },
+    "ph": "X",
+    "ts": 1512986327542000,
+    "dur": 6000
+  },
+  {
+    "pid": 1,
+    "tid": 4,
+    "id": 84,
+    "name": "transform: external libs merger",
+    "args": {
+      "span_id": "84",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "transform": "type: 34\nis_incremental: true\n"
+    },
+    "ph": "X",
+    "ts": 1512986327548000,
+    "dur": 2000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 82,
+    "name": "task: transform",
+    "args": {
+      "span_id": "82",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 65\ndid_work: true\nskipped: false\nup_to_date: false\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986327524000,
+    "dur": 26000
+  },
+  {
+    "pid": 1,
+    "tid": 2,
+    "id": 86,
+    "name": "transform prep: dex merger",
+    "args": {
+      "span_id": "86",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "transform": "type: 30\nis_incremental: true\n"
+    },
+    "ph": "X",
+    "ts": 1512986327560000,
+    "dur": 3000
+  },
+  {
+    "pid": 1,
+    "tid": 2,
+    "id": 87,
+    "name": "transform: dex merger",
+    "args": {
+      "span_id": "87",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "transform": "type: 30\nis_incremental: true\n"
+    },
+    "ph": "X",
+    "ts": 1512986327563000,
+    "dur": 150000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 85,
+    "name": "task: transform",
+    "args": {
+      "span_id": "85",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 65\ndid_work: true\nskipped: false\nup_to_date: false\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986327551000,
+    "dur": 167000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 88,
+    "name": "task: validate signing",
+    "args": {
+      "span_id": "88",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 67\ndid_work: true\nskipped: false\nup_to_date: false\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986327719000,
+    "dur": 8000
+  },
+  {
+    "pid": 1,
+    "tid": 4,
+    "id": 90,
+    "name": "transform prep: instant run dependencies apk builder",
+    "args": {
+      "span_id": "90",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "transform": "type: 23\nis_incremental: true\n"
+    },
+    "ph": "X",
+    "ts": 1512986327731000,
+    "dur": 1000
+  },
+  {
+    "pid": 1,
+    "tid": 4,
+    "id": 91,
+    "name": "transform: instant run dependencies apk builder",
+    "args": {
+      "span_id": "91",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "transform": "type: 23\nis_incremental: true\n"
+    },
+    "ph": "X",
+    "ts": 1512986327732000,
+    "dur": 1000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 89,
+    "name": "task: transform",
+    "args": {
+      "span_id": "89",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 65\ndid_work: true\nskipped: false\nup_to_date: false\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986327728000,
+    "dur": 7000
+  },
+  {
+    "pid": 1,
+    "tid": 3,
+    "id": 93,
+    "name": "transform prep: instant run slice split apk builder",
+    "args": {
+      "span_id": "93",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "transform": "type: 24\nis_incremental: true\n"
+    },
+    "ph": "X",
+    "ts": 1512986327738000,
+    "dur": 1000
+  },
+  {
+    "pid": 1,
+    "tid": 3,
+    "id": 94,
+    "name": "transform: instant run slice split apk builder",
+    "args": {
+      "span_id": "94",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "transform": "type: 24\nis_incremental: true\n"
+    },
+    "ph": "X",
+    "ts": 1512986327739000,
+    "dur": 634000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 92,
+    "name": "task: transform",
+    "args": {
+      "span_id": "92",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 65\ndid_work: true\nskipped: false\nup_to_date: false\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986327735000,
+    "dur": 639000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 95,
+    "name": "task: package application",
+    "args": {
+      "span_id": "95",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 45\ndid_work: false\nskipped: true\nup_to_date: true\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986328375000,
+    "dur": 10000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 96,
+    "name": "task: build info writer",
+    "args": {
+      "span_id": "96",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "variant": "id: 1\nis_debug: true\nminify_enabled: false\nuse_multidex: false\nuse_legacy_multidex: false\nvariant_type: APPLICATION\nmin_sdk_version {\n  api_level: 18\n}\ntarget_sdk_version {\n  api_level: 26\n}\ndex_builder: DX_DEXER\ndex_merger: DX_MERGER\n",
+      "task": "type: 70\ndid_work: true\nskipped: false\nup_to_date: false\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986328385000,
+    "dur": 16000
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 97,
+    "name": "task: unknown task type",
+    "args": {
+      "span_id": "97",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "task": "type: 0\ndid_work: false\nskipped: false\nup_to_date: false\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986328401000,
+    "dur": 100
+  },
+  {
+    "pid": 1,
+    "tid": 0,
+    "id": 98,
+    "name": "task: unknown task type",
+    "args": {
+      "span_id": "98",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n",
+      "task": "type: 0\ndid_work: false\nskipped: false\nup_to_date: false\nfailed: false\n"
+    },
+    "ph": "X",
+    "ts": 1512986328402000,
+    "dur": 100
+  },
+  {
+    "pid": 1,
+    "tid": 1,
+    "id": 99,
+    "name": "base plugin build finished",
+    "args": {
+      "span_id": "99",
+      "project": "id: 1\nandroid_plugin_version: \"3.0.1\"\nandroid_plugin: APPLICATION\nplugin_generation: FIRST\nbuild_tools_version: \"26.0.2\"\ncompile_sdk: \"android-26\"\nsplits {\n}\n"
+    },
+    "ph": "X",
+    "ts": 1512986328521000,
+    "dur": 8000
+  }
+]
