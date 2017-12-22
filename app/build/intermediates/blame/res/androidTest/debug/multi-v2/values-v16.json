@@ -1,0 +1,38 @@
+{
+  "logs": [
+    {
+      "outputFile": "/home/valentin/AndroidStudioProjects/DailyPlanner/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v16/values-v16.xml",
+      "map": [
+        {
+          "source": "/home/valentin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e396750f63e80974f3990a2dd2f8a7bc/res/values-v16/values-v16.xml",
+          "from": {
+            "startLines": "2",
+            "startColumns": "4",
+            "startOffsets": "55",
+            "endLines": "5",
+            "endColumns": "12",
+            "endOffsets": "223"
+          },
+          "to": {
+            "startLines": "3",
+            "startColumns": "4",
+            "startOffsets": "121",
+            "endLines": "6",
+            "endColumns": "12",
+            "endOffsets": "289"
+          }
+        },
+        {
+          "source": "/home/valentin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/381a7cd4e4b38170ec0c6e87653afca1/res/values-v16/values-v16.xml",
+          "from": {
+            "startLines": "2",
+            "startColumns": "4",
+            "startOffsets": "55",
+            "endColumns": "65",
+            "endOffsets": "116"
+          }
+        }
+      ]
+    }
+  ]
+}

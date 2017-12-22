@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DailyPlanner</string>
+    <string name="service_name">NotificationService</string>
+    <string name="search_button">Search</string>
+    <string name="addButtonText">Add</string>
+    <string name="removeButtonText">Remove</string>
+    <string name="updateButtonText">Update</string>
+    <string name="infoTextEditHint">Insert your remainder</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="exitButtonText">Exit</string>
+    <string name="searchID">Search by ID</string>
+    <string name="errorID">ID is needed!</string>
+    <string name="errorReminder">Reminder is needed!</string>
+    <string name="errorDelete">Please enter a valid ID!</string>
+    <string name="removeTextButton">Remove</string>
+    <string name="cancelTextButton">Cancel</string>
+    <string name="deleteSucces">Record deleted succesfully!</string>
+    <string name="deletefailed">Somthing went wrong!</string>
+    <string name="addSucces">Record added succesfully!</string>
+    <string name="channel_name">NotificationChannel</string>
+    <string name="channel_description">DailyPlanner notification channel</string>
+    <string name="group_name">NotificationGroup</string>
+</resources>

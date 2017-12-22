@@ -1,0 +1,4 @@
+#Fri Dec 15 12:21:11 EET 2017
+base.0=/home/valentin/AndroidStudioProjects/DailyPlanner/app/build/intermediates/transforms/dexMerger/debug/58
+path.0=classes.dex
+renamed.0=classes.dex
